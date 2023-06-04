@@ -1,0 +1,33 @@
+# Ignore build output
+/build/
+
+# Ignore CM4 folder
+/CM4
+
+# Ignore IDE specific files
+/.settings/
+/.metadata/
+/.cproject
+/.project
+
+# Ignore generated files
+/Debug/
+/Release/
+
+# Ignore user-specific files
+/.idea/
+/.vscode/
+
+# Ignore system-specific files
+/.DS_Store
+/Thumbs.db
+
+# Ignore specific file types
+*.o
+*.d
+*.bak
+*.exe
+*.elf
+*.bin
+*.hex
+*.map
